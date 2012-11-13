@@ -1,0 +1,9 @@
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Timer.resources
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Crystal\Desktop\format\workspaces\visual\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\TakeabrakeTimer.csproj.GenerateResource.Cache
+C:\Users\Crystal\Desktop\format\workspaces\visual\Takeabraketimer\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\Crystal\Desktop\format\workspaces\visual\Takeabraketimer\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
